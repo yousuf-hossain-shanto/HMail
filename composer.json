@@ -1,0 +1,12 @@
+{
+    "name": "yhshanto/hmail",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "YH Shanto",
+            "email": "yousuf.hossain.shanto@gmail.com"
+        }
+    ],
+    "require": {}
+}
