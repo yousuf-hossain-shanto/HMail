@@ -20,6 +20,5 @@
                 "YHShanto\\HMailer\\HMailServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
