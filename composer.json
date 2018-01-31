@@ -8,5 +8,18 @@
             "email": "yousuf.hossain.shanto@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "YHShanto\\HMailer\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "YHShanto\\HMailer\\HMailServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable"
 }
